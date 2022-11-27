@@ -21,3 +21,7 @@ _Примечания_:
 ### a) Концептуальная модель
 
 <img width="372" alt="Снимок экрана 2022-11-27 в 20 33 01" src="https://user-images.githubusercontent.com/57729595/204150782-dec3784a-8215-43aa-8a4b-d62621d36dfe.png">
+
+### b) Логическая модель
+
+<img width="703" alt="Снимок экрана 2022-11-28 в 2 06 26" src="https://user-images.githubusercontent.com/57729595/204164600-5e2fb348-9d3b-4632-a98f-907b3427b5de.png">
