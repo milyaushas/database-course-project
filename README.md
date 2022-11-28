@@ -23,5 +23,26 @@ _Примечания_:
 <img width="372" alt="Снимок экрана 2022-11-27 в 20 33 01" src="https://user-images.githubusercontent.com/57729595/204150782-dec3784a-8215-43aa-8a4b-d62621d36dfe.png">
 
 ### b) Логическая модель
+БД находится во второй нормальной форме
 
-<img width="703" alt="Снимок экрана 2022-11-28 в 2 06 26" src="https://user-images.githubusercontent.com/57729595/204164600-5e2fb348-9d3b-4632-a98f-907b3427b5de.png">
+<img width="477" alt="Снимок экрана 2022-11-28 в 4 08 22" src="https://user-images.githubusercontent.com/57729595/204171196-c30b1ea7-ccf6-461f-b48a-113edddf9b01.png">
+
+
+### c) Физическая модель
+
+Таблица STAFF - версионная (SCD2)
+
+<img width="615" alt="Снимок экрана 2022-11-28 в 4 09 53" src="https://user-images.githubusercontent.com/57729595/204171396-02497c6f-e249-4b89-813b-f7f98b4714ed.png">
+
+<img width="627" alt="Снимок экрана 2022-11-28 в 4 11 05" src="https://user-images.githubusercontent.com/57729595/204171455-91e85fe3-48e1-4567-999b-aef137e043b8.png">
+
+<img width="629" alt="Снимок экрана 2022-11-28 в 4 11 34" src="https://user-images.githubusercontent.com/57729595/204171489-29110183-f1f0-4a80-acc8-8c2b7cdca17b.png">
+
+<img width="629" alt="Снимок экрана 2022-11-28 в 4 12 08" src="https://user-images.githubusercontent.com/57729595/204171530-77e419df-8310-4e1d-b3fe-66f1c52430cd.png">
+
+<img width="629" alt="Снимок экрана 2022-11-28 в 4 12 50" src="https://user-images.githubusercontent.com/57729595/204171615-3f1bca78-3757-4e70-a245-f5c7b9348b11.png">
+
+<img width="657" alt="Снимок экрана 2022-11-28 в 4 13 56" src="https://user-images.githubusercontent.com/57729595/204171675-dff6acd2-0ad4-437b-993d-edd542b68ae3.png">
+
+<img width="632" alt="Снимок экрана 2022-11-28 в 4 14 33" src="https://user-images.githubusercontent.com/57729595/204171736-15d71786-0480-4f43-bb5e-69390cb6b5f7.png">
+
