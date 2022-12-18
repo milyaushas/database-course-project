@@ -25,14 +25,12 @@ _Примечания_:
 ### b) Логическая модель
 БД находится во второй нормальной форме
 
-<img width="477" alt="Снимок экрана 2022-11-28 в 4 08 22" src="https://user-images.githubusercontent.com/57729595/204171196-c30b1ea7-ccf6-461f-b48a-113edddf9b01.png">
-
+<img width="692" alt="Снимок экрана 2022-12-18 в 15 52 44" src="https://user-images.githubusercontent.com/57729595/208299536-ae1a343c-25d6-4c5e-841a-75f2b799213d.png">
 
 ### c) Физическая модель
 
-Таблица STAFF - версионная (SCD2)
+<img width="619" alt="Снимок экрана 2022-12-18 в 16 00 13" src="https://user-images.githubusercontent.com/57729595/208299877-5bc45095-bdf3-480d-b675-0414ae1b4d4c.png">
 
-<img width="615" alt="Снимок экрана 2022-11-28 в 4 09 53" src="https://user-images.githubusercontent.com/57729595/204171396-02497c6f-e249-4b89-813b-f7f98b4714ed.png">
 
 <img width="627" alt="Снимок экрана 2022-11-28 в 4 11 05" src="https://user-images.githubusercontent.com/57729595/204171455-91e85fe3-48e1-4567-999b-aef137e043b8.png">
 
