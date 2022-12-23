@@ -232,13 +232,27 @@ values (1, 'Embeddings and polysemy'),
 
 
 
+-- задание 5
 
+-- запросы к таблицe position
 
+insert into position(position_id, position_name, salary)
+values (6, 'ведущий научный сотрудник', 100000);
 
+delete from position where position_name='студент-практикант';
 
+select * from position where salary < 20000;
 
+update position set salary = salary + 5000 where salary < 20000;
 
+-- запросы к таблице research_paper
 
+insert into research_paper(paper_name, conference_id, year)
+values ('Cool new paper', 1, 2022);
 
+delete from research_paper where conference_id is null;
 
+select paper_name from research_paper where year = 2022;
+
+update research_paper set publisher = 'NLP journal' where paper_name = 'Cool new paper';
 
